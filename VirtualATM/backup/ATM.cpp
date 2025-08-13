@@ -34,6 +34,7 @@ void ATM::clearScreen() {
     (void)result; // Suppress unused variable warning
     (void)result; // Suppress unused variable warning
     (void)result; // Suppress unused variable warning
+    (void)result; // Suppress unused variable warning
 }
 
 // Main ATM operation loop
